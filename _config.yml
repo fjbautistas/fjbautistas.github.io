@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Frank Bautista
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'MSc candidate and physicist from Unoversidad Nacional de Colombia. I am passionate about cycling, photography and physics'
+url:              https://github.com/fjbautistas/fjbautistas.github.io/
 baseurl:          /
 
 author:
