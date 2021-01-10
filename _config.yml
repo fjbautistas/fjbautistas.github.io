@@ -68,7 +68,7 @@ content:
         quote: >
           Junior research
         description: | # this will include new lines to allow paragraphs
-          Design of new analytic methods for $\gamma$ spectroscopy applied to basic research focused on:
+          Design of new analytic methods for gamma spectroscopy applied to basic research focused on:
 
           - Software development for gamma spectroscopy analyses employing C++ and Python.
           - Characterization of efficiency and resoluction for HPGe detectors, scintillator detectors such as NaI(2x2), NaI(3x3), CsI(2x2), BGO(2x2) detectors, among others.
