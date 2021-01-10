@@ -28,7 +28,8 @@ about_content: | # this will include new lines to allow paragraphs
   I'm a physicist and candidate of Master of Sciences in physics from the Universidad Nacional de Colombia, currently living in Bogotá D. C. I have experience in nuclear physics (theoretical and experimental). Also, I have over two years using machine learning methods and Bayesian inference. I want to apply all of this to practical physics projects. 
 
   My professional interests include nuclear physics, nuclear instrumentation, data analysis, bayesian inferences and, astronomy and software development in general.
-
+  
+#================================================================================================================
 content:
   
   - title: Experience
@@ -42,7 +43,9 @@ content:
         quote: >
           Physicist
         description: | # this will include new lines to allow paragraphs
-          Inspector of the regulatory authority in Colombia for the correct handling of radioactive materials in industry, medicine and science, through  carry out technical guides, scientific reports and inspection visits of security verification and conditions.
+          Inspector of the regulatory authority in Colombia for the correct handling of radioactive materials in industry, medicine and science.
+          - Carry out technical guides and scientific reports.
+          - Conduct inspection visits to verify the conditions, security and correct use of radiactive materials.
 
       - layout: right
         title: Universidad Nacional de Colombia 
@@ -71,23 +74,100 @@ content:
           - Characterization of efficiency and resoluction for HPGe detectors, scintillator detectors such as NaI(2x2), NaI(3x3), CsI(2x2), BGO(2x2) detectors, among others.
           - Modeling of extended source and position optimization for HPGe detector.
 
+#================================================================================================================
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title: Universidad Nacional de Colombia
+        sub_title: M.Sc. in Physics
+        caption: 2018 - present
         quote: >
-          Short institution or course description (optional)
+          Master of Science candidate 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Two year master’s degree candidate at the top-1 <a href="https://www.topuniversities.com/universities/universidad-nacional-de-colombia/undergrad">university</a> in Colombia. I used machine learning and bayesian inference to determine phycical characteristics of exoplanetary systems. Currently, I am writing the thesis _Bayesian constraints on observable properties of exoplanetary systems using planet population synthesis simulations._
+
+      - layout: left
+        title: Universidad Nacional de Colombia
+        sub_title: B.Sc. in Physics
+        caption: 2011 - 2017
+        quote: >
+          Bachelor's degree
+        description: | # this will include new lines to allow paragraphs
+          Bachelor degree in Physics, at the top-1 <a href="https://www.topuniversities.com/universities/universidad-nacional-de-colombia/undergrad">university</a> in Colombia. I wrote a thesis on experimental nuclear physics: _Comparison of measurements of NORM by gamma ray spectroscopy using detectors of Ge, CsI, NaI, and BGO_, in the Nuclear Physics Group (GFNUN).  
+#================================================================================================================
+
+  - title: Research products
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Here are some academic contributions that I have made across time. They are arranged chronologically and by relevance (paper, talk, poster,...).
+
+      - **Publications**: 
+        - G. Chaparro Molano, F. Bautista, Y. Miguel. (2019). <a href="https://arxiv.org/abs/1901.07078#:~:text=Transitional%20disk%20archeology%20from%20exoplanet%20population%20synthesis,-Germ%C3%A1n%20Chaparro%20Molano&text=Increasingly%20better%20observations%20of%20resolved,interpreted%20as%20signatures%20of%20planets.">Transitional disk archeology from exoplanet population synthesis</a>, _Proceedings IAU Symposium No. 345._
+        - P. Ochoa, F. Bautista, E. Fajardo, W. Rodriguez, F. Cristancho. (2018). <a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:50004883">Measuring activity concentrations using a High Purity Germanium detector: Extended source efficiency correction and optimization of sample position</a>, _NORM-VIII, International Atomic Energy Agency (IAEA)._
+
+      - **Summer schools**:
+        -  <a href="https://nucleartalent.github.io/Bayes2019/">Learning from Data: Bayesian Methods and Machine Learning. Training in Advance Low Energy Nuclear Theorys</a>. University of York, York, U.K., 2019. 
+
+          Contribution: _Bayesian Model Evaluation of a Gaussian Mixture Classification of Exoplanetary Systems._
+        -  <a href="http://www.sbfisica.org.br/~evjasfne/xx/index.php/pt/2-uncategorised/32-grupo-c">XX Summer School Jorge André Swieca on Experimental Nuclear Physics</a>. Universidad de Sao Paulo, Sao Paulo,  Brasil, 2018.
+
+          Contribution: _Comparison of measurement of NORM by gamma-ray spectroscopy._
+
+      - **Participation in events**:
+        - <a href="https://as595.github.io/RADABigData/">RADA Big Data Workshop</a>, Medellín, Colombia, 2019.
+
+          Contribution: _Machine Learning Classification of Pulsar Candidates_, ASTRO-PROJECT group.
+
+        - <a href="https://www.rad2017.rad-conference.org/welcome.php">Fifth International Conference on Radiation and Applications in Various Fields of Research - RAD</a>, Budva, Montenegro, 2017.
+
+          Contribution: _Comparison of measurement of NORM by gamma-ray spectroscopy using detectors of HPGe, CsI, NaI and BGO._
+        - <a href="http://gfnun.unal.edu.co/index.php?id=xi-lasnpa&L=4">The 11th Latin American Symposium on Nuclear Physics and Applications</a>, Medellín, Colombia, 2015.
+
+          Contribution: _Measurement of the concentration of natural radionuclides by γ-ray spectroscopy using a NaI detector_
+
+        - <a href="http://gfnun.unal.edu.co/index.php?id=2864&L=4">Second Latinamerican School on Medical Physics</a>, Medellín, Colombia, 2015.
+
+        - <a href="http://www.gfnun.unal.edu.co/andeanschool/#:~:text=The%20aim%20of%20the%20%22Second,experimental%20studies%20in%20nuclear%20structure%2C&text=imaging%20techniques%20in%20medical%20physics,Research%20Reactors.">Second Andean School on Nuclear Physics</a>, Bogotá, Colombia, 2014.
+
+
+#================================================================================================================
+
+  - title: Awards
+    layout: list
+    content:
+      - layout: top-right
+        title: Universidad Nacional de Colombia
+        sub_title: M.Sc. Scolarship
+        caption: 2018 - 2020
+        #quote: >
+        #  Teaching Assistant Scholarship 
+        #description: | # this will include new lines to allow paragraphs
+
+      - layout: top-right
+        title: Universidad Nacional de Colombia
+        sub_title: Undergraduate Scolarship
+        caption: 2016 - 2017
+        #quote: >
+        #  Teaching Assistant Scholarship 
+        #description: | # this will include new lines to allow paragraphs
+#================================================================================================================
+ 
+
+
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      When I am not in the academic world, I enjoy reading, accompanied by a good coffee cup. The last book I read was <a href="https://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0547572484">The Man in the High Castle</a>, an excellent novel. I hope to watch the TV serie soon.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      I am a cycling enthusiast; I believe that riding a bicycle removes sorrows and worries. I ride my bike whenever I can.
+      <p class="aligncenter">
+      <img src="/images/bici.jpg" alt="centered image" width="650" height="400"/>
+      </p>
+
+      I love nature and animals, especially cats and my pets. Yo can follow me in my social networks. 
 
 # Footer
 footer_show_references: true
