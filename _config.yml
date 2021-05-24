@@ -73,7 +73,7 @@ content:
         quote: >
           Junior research
         description: | # this will include new lines to allow paragraphs
-          Design of new analytic methods for $\gamma$ spectroscopy applied to basic research focused on:
+          Design of new analytic methods for gamma spectroscopy applied to basic research focused on:
 
           - Software development for gamma spectroscopy analyses employing C++ and Python.
           - Characterization of efficiency and resoluction for HPGe detectors, scintillator detectors such as NaI(2x2), NaI(3x3), CsI(2x2), BGO(2x2) detectors, among others.
@@ -115,7 +115,7 @@ content:
         -  <a href="https://nucleartalent.github.io/Bayes2019/">Learning from Data: Bayesian Methods and Machine Learning. Training in Advance Low Energy Nuclear Theorys</a>. University of York, York, U.K., 2019. 
 
           Contribution: _Bayesian Model Evaluation of a Gaussian Mixture Classification of Exoplanetary Systems._
-        -  <a href="http://www.sbfisica.org.br/~evjasfne/xx/index.php/pt/2-uncategorised/32-grupo-c">XX Summer School Jorge André Swieca on Experimental Nuclear Physics</a>. Universidad de Sao Paulo, Sao Paulo,  Brasil, 2018.
+        -  <a href="http://www.sbfisica.org.br/~evjasfne/xx/index.php/pt/2-uncategorised/32-grupo-c"> XX Summer School Jorge André Swieca on Experimental Nuclear Physics</a>. Universidad de Sao Paulo, Sao Paulo,  Brasil, 2018.
 
           Contribution: _Comparison of measurement of NORM by gamma-ray spectroscopy._
 
