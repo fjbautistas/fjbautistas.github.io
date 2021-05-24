@@ -25,9 +25,14 @@ linkedin_username: fjbautistas
 about_title: About Me 
 about_profile_image: images/prof.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a physicist and candidate of Master of Sciences in physics from the Universidad Nacional de Colombia, currently living in Bogotá D. C. I have experience in nuclear physics (theoretical and experimental). Also, I have over two years using machine learning methods and Bayesian inference. I want to apply all of this to practical physics projects. 
+I'm a physicist and candidate for Master of Sciences in physics from the Universidad Nacional de Colombia, I'm living in Bogotá DC, and I'm working at the Servicio Geológico Colombiano as an inspector of radioactive material handling in industries and medicine. I have experience in astrophysics, astronomy, and nuclear physics (theoretical and experimental).
 
-  My professional interests include nuclear physics, nuclear instrumentation, data analysis, bayesian inferences and, astronomy and software development in general.
+Recently, I have been interested in Bayesian methods and machine learning applied in physics. I began researching the link between transitional disks and exoplanetary systems. Also, I took part in a project to classify the observed systems with machine learning. Finally, as an MSc thesis, I carried out the implementation of Bayesian infenrence with machine learning to constrain observable properties of exoplanetary systems using planet population synthesis simulations.
+
+Currently, I'm interested in the formation of exoplanets, from protoplanetary disks to planetary systems. With my efforts, as well as, my knowledge in planet population synthesis, machine learning methods, Bayesian inference, and data analysis, I want to contribute in open in this science field, understanding our place in the universe.
+
+Finally, my personal interests include read, ride my bike with my father and my cycling friends, the photography, watch Seinfeld or Friends whenever I can and enjoy a good cup of coffee with good company.
+
   
 #================================================================================================================
 content:
@@ -152,17 +157,14 @@ content:
         #  Teaching Assistant Scholarship 
         #description: | # this will include new lines to allow paragraphs
 #================================================================================================================
- 
-
-
-
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I am not in the academic world, I enjoy reading, accompanied by a good coffee cup. The last book I read was <a href="https://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0547572484">The Man in the High Castle</a>, an excellent novel. I hope to watch the TV serie soon.
 
-      I am a cycling enthusiast; I believe that riding a bicycle removes sorrows and worries. I ride my bike whenever I can.
+      I am a cycling enthusiast; I believe that riding a bicycle removes sorrows and worries. I ride my bike whenever I can (follow me in Strava <a href="https://www.strava.com/athletes/fjbautistas">Strava</a>).
+      
       <p class="aligncenter">
       <img src="/images/bici.jpg" alt="centered image" width="650" height="400"/>
       </p>
