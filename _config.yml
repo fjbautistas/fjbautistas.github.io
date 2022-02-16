@@ -26,7 +26,7 @@ about_title: About Me
 about_profile_image: images/prof.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  I'm a BSc in physics and currently pursuing a Master's degree in physics at the Universidad Nacional de Colombia. I'm living in Bogotá DC, and working at the Servicio Geológico Colombiano as an inspector of radioactive material handling in industries and medicine. I have experience in astrophysics, astronomy, and nuclear physics (theoretical and experimental).
+  I have a Master's degree in physics at the Universidad Nacional de Colombia. I'm living in Bogotá DC, and working at the Servicio Geológico Colombiano as an inspector of radioactive material handling in industries and medicine. I have experience in astrophysics, astronomy, and nuclear physics (theoretical and experimental).
   
   Recently, I have been interested in Bayesian methods and machine learning applied in physics. I began researching the link between transitional disks and exoplanetary systems. Also, I took part in a project to classify the observed systems with machine learning. Finally, as an MSc thesis, I carried out the implementation of Bayesian infenrence with machine learning to constrain observable properties of exoplanetary systems using planet population synthesis simulations.
   
@@ -86,11 +86,11 @@ content:
       - layout: left
         title: Universidad Nacional de Colombia
         sub_title: M.Sc. in Physics
-        caption: 2018 - present
+        caption: 2018 - 2021
         quote: >
-          Master of Science candidate 
+          Master of Science  
         description: | # this will include new lines to allow paragraphs
-          Two year master’s degree candidate at the top-1 <a href="https://www.topuniversities.com/universities/universidad-nacional-de-colombia/undergrad">university</a> in Colombia. I used machine learning and bayesian inference to determine phycical characteristics of exoplanetary systems. Currently, I am writing the thesis _Bayesian constraints on observable properties of exoplanetary systems using planet population synthesis simulations._
+          Two year master’s degree at the top-1 <a href="https://www.topuniversities.com/universities/universidad-nacional-de-colombia/undergrad">university</a> in Colombia. I used machine learning and bayesian inference to determine phycical characteristics of exoplanetary systems. I am wrote the thesis _Bayesian constraints on observable properties of exoplanetary systems using planet population synthesis simulations._
 
       - layout: left
         title: Universidad Nacional de Colombia
